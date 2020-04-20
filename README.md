@@ -15,3 +15,4 @@ El diseño grafico de la app sera desarrollado en App inventor 2 (solo disponibl
 ARQUITECTURA EN LA APP 
 
 El dockerfile estara relacionado con el contenedor el cual se encaragara de ejecutar todas las instrucciones que seran necesarias a la hora de configurar nuestro servidor, y ademas noa arrojara cada uno de los servicios necesarios y ejecutara nuestro archivo .py
+El lenguaje que usaremos seria python 
