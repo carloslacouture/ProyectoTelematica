@@ -11,3 +11,7 @@ En la app tendremos que indicar datos muy importantes como lo son la edad, gener
 DESARROLLO DE LA APP 
 
 El diseño grafico de la app sera desarrollado en App inventor 2 (solo disponible en dispositivos Android), Tendra elementos como lo son la ubicacion, el manejo de tu informacion (para hacer los riesgos de contagios), un mapa interactivo donde aparecera todo el area metropolitana de la ciudad de "MEDELLIN"
+
+ARQUITECTURA EN LA APP 
+
+El dockerfile estara relacionado con el contenedor el cual se encaragara de ejecutar todas las instrucciones que seran necesarias a la hora de configurar nuestro servidor, y ademas noa arrojara cada uno de los servicios necesarios y ejecutara nuestro archivo .py
